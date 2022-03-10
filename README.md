@@ -8,4 +8,4 @@ Sin embargo, habia un problema con la información disponible, y era que no esta
 
 Todo el proceso de aprendizaje sobre Data Science, Clusterización y otros procesos de la Ciencia de los Datos que investigué quedan reflejados en la parte teórica del trabajo, mientras que la aplicación de los mismos se encuentra al final del documento.
 
-Se puede acceder tanto a mi [**TFG**](https://github.com/Acamon97/TFG/Documentos/TFG.pdf) como a la presentación en [**PPT**](https://github.com/Acamon97/TFG/Documentos/Presentacion_TFG_Aaron_Casado.pptx) en los respectivos enlaces.
+Se puede acceder tanto a mi [**TFG**](https://github.com/Acamon97/TFG/blob/main/Documentos/TFG.pdf) como a la [***presentación***](https://github.com/Acamon97/TFG/blob/main/Documentos/Presentacion_TFG.pdf) en los respectivos enlaces.
